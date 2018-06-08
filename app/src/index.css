@@ -1,0 +1,43 @@
+@import "fonts/Font_Awesome/css/font-awesome.min.css";
+
+@font-face {
+  font-family: "MyFont-1";
+  src: url(fonts/my-fonts/10906.otf);
+}
+
+@font-face {
+  font-family: "MyFont-2";
+  src: url(fonts/my-fonts/10921.otf);
+}
+
+@font-face {
+  font-family: "MyFont-3";
+  src: url(fonts/my-fonts/10930.otf);
+}
+
+@font-face {
+  font-family: "MyFont-4";
+  src: url(fonts/my-fonts/10950.otf);
+}
+
+@font-face {
+  font-family: "MyFont-5";
+  src: url(fonts/my-fonts/10953.otf);
+}
+
+@font-face {
+  font-family: "MyFont-6";
+  src: url(fonts/my-fonts/10960.ttf);
+}
+
+@font-face {
+  font-family: "MyFont-7";
+  src: url(fonts/my-fonts/Hamerslag.ttf);
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
